@@ -1,15 +1,20 @@
-<h1 align="center">👋 Hi there, I'm Cris Dyford Bonghanoy</h1>
+# 👋 Hi there, I'm Cris Dyford Bonghanoy
 
-<p align="center">
-  <b>Backend-leaning Full Stack Developer</b> · Cebu, Philippines 🇵🇭<br/>
-  I build systems with clean architecture and SOLID principles — distributed services, APIs, and desktop apps that people actually run every day.
-</p>
+**Full Stack Developer · Backend & AI** · Cebu, Philippines 🇵🇭
 
-<p align="center">
-  <a href="https://cris-dyford-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:dyfordbonghanoy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://facebook.com/dyfordbonghanoy"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
+**I take products from empty repo to running in production — on my own, end to end.**
+
+**Web platforms, desktop applications, and mobile-ready PWAs** — interface, API, database, deployment. Payment integrations that reconcile correctly under retries and duplicate webhooks. AI services — face recognition, OCR, semantic search — deployed behind their own APIs. Backends built to last: modular services, queues, auth, and data models that won't need rewriting in six months.
+
+**Laravel · NestJS · Spring Boot · .NET · React · Next.js · Electron**
+*I pick the stack that fits the problem, not the other way round.*
+
+If you need someone who can own a system rather than just a ticket — let's talk. 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cris-dyford-c-bonghanoy-4330a62a0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cris-dyford-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyfordbonghanoy@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dyfordbonghanoy)
 
 ---
 
@@ -54,4 +59,4 @@
 
 ---
 
-<p align="center"><i>Always building, always learning. ⚡</i></p>
+*Always building, always learning. ⚡*
